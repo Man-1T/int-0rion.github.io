@@ -1,14 +1,5 @@
-# [sindresorhus.com](https://sindresorhus.com)
+# Manit Anand
 
-> Personal website of Sindre Sorhus
+> Personal website of Manit Anand
 
 *The website targets the latest version of Chrome, Safari, and Firefox.*
-
-<a href="https://sindresorhus.com">
-	<img src="screenshot.jpg" width="600">
-</a>
-
-
-## License
-
-MIT © [Sindre Sorhus](https://sindresorhus.com)
