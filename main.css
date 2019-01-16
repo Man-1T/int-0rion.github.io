@@ -1,0 +1,9 @@
+.fractal_canvas {
+    width:1024px;
+    position:absolute;
+    left:0;
+    right:0;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top: 64px
+}

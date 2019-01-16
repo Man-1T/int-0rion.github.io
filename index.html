@@ -12,11 +12,22 @@
     <h1>
         Manit Anand
     </h1>
-    <h3>
-        Man-IT
-    </h3>
-    <h6>
-        Man of IT
-    </h6>
+    <div id="overlay">
+        <h2>Fractal Generator</h2>
+         <div id="controls">
+            <label id="zoom_label">Drag an area to zoom in</label>
+            <input id="reset" type="button" value="Reset">
+        </div>
+</h2>
+    </div>
+
+    
+    <canvas id="fractal" style="z-index:1" class="fractal_canvas"
+            width="1024" height="585"></canvas>
+    <canvas id="zoom_overlay" class="fractal_canvas"
+            style="z-index:2;opacity: 0.4; cursor: crosshair;"
+            width="1024" height="585"></canvas>
+    <script src="fractal.js"></script>
+      
 </body>
 </html>
